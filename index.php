@@ -1,4 +1,5 @@
 <?php
+//toto je commit//
 $truck_now = 0;
 $truck_max = 20;
 $truck_now_virtual = 0;
